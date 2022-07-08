@@ -1,0 +1,7 @@
+Python
+Javascript
+CoffeeScript
+HTML/CSS 
+SQL
+Malbolge
+
